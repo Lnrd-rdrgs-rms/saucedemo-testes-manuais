@@ -63,11 +63,11 @@ A evidência do defeito foi registrada e armazenada junto aos materiais do proje
 
 O repositório reúne os documentos produzidos durante o projeto:
 
-- [Plano de testes](01-planejamento/)
+- [Plano de testes](01-planejamento/Plano-de-Testes-SauceDemo.pdf)
 - [Casos de teste](02-casos-de-teste/Casos-de-Teste_SauceDemo.xlsx)
-- [Resumo da execução](03-execucao/)
+- [Resumo da execução](03-execucao/Resumo-de-execução-SauceDemo.xlsx)
 - [Registro de defeitos](04-defeitos/Registro-de-Defeitos-SauceDemo.xlsx)
-- [Evidências de teste](05-evidencias/)
+- [Evidência do BUG-001](05-evidencias/BUG-001-descricao-produto.jpg)
 - [Relatório final](06-relatorio-final/Relatorio-de-Execucao-SauceDemo.pdf)
 
 ## 8. Aprendizados e competências demonstradas
