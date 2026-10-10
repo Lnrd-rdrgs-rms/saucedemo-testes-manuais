@@ -59,16 +59,16 @@ Durante a execução, foi identificado um problema na apresentação da descriç
 
 A evidência do defeito foi registrada e armazenada junto aos materiais do projeto. A correção ainda não foi confirmada por meio de um novo teste.
 
-## 7. Entregáveis
+## 7. Documentação do projeto
 
 O repositório reúne os documentos produzidos durante o projeto:
 
-- Plano de testes.
-- Planilha de casos de teste.
-- Resumo da execução.
-- Registro de defeitos.
-- Evidências de teste.
-- Relatório final.
+- [Plano de testes](01-planejamento/)
+- [Casos de teste](02-casos-de-teste/Casos-de-Teste_SauceDemo.xlsx)
+- [Resumo da execução](03-execucao/)
+- [Registro de defeitos](04-defeitos/Registro-de-Defeitos-SauceDemo.xlsx)
+- [Evidências de teste](05-evidencias/)
+- [Relatório final](06-relatorio-final/Relatorio-de-Execucao-SauceDemo.pdf)
 
 ## 8. Aprendizados e competências demonstradas
 
